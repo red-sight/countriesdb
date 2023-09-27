@@ -1,0 +1,2234 @@
+[
+  {
+    "code": "256",
+    "name": "Uganda",
+    "abbr2": "UG",
+    "abbr3": "UGA",
+    "continent": "Africa",
+    "currency_code": "UGX",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "672",
+    "name": "Antarctica",
+    "abbr2": "AQ",
+    "abbr3": "ATA",
+    "continent": "Antarctica",
+    "currency_code": "XCD",
+    "subregion": "Antarctica"
+  },
+  {
+    "code": "590",
+    "name": "Saint Martin",
+    "abbr2": "MF",
+    "abbr3": "MAF",
+    "continent": "North America",
+    "currency_code": "EUR",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "378",
+    "name": "San Marino",
+    "abbr2": "SM",
+    "abbr3": "SMR",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "690",
+    "name": "Tokelau",
+    "abbr2": "TK",
+    "abbr3": "TKL",
+    "continent": "Oceania",
+    "currency_code": "NZD",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "47",
+    "name": "Bouvet Island",
+    "abbr2": "BV",
+    "abbr3": "BVT",
+    "continent": "South America",
+    "currency_code": "NOK",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "000",
+    "name": "French Southern territories",
+    "abbr2": "TF",
+    "abbr3": "ATF",
+    "continent": "Eastern Africa",
+    "currency_code": "EUR",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "672",
+    "name": "Norfolk Island",
+    "abbr2": "NF",
+    "abbr3": "NFK",
+    "continent": "Oceania",
+    "currency_code": "AUD",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "code": "93",
+    "name": "Afghanistan",
+    "abbr2": "AF",
+    "abbr3": "AFG",
+    "continent": "Asia",
+    "currency_code": "AFN",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "358",
+    "name": "Aland Islands",
+    "abbr2": "AX",
+    "abbr3": "ALA",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "355",
+    "name": "Albania",
+    "abbr2": "AL",
+    "abbr3": "ALB",
+    "continent": "Europe",
+    "currency_code": "ALL",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "213",
+    "name": "Algeria",
+    "abbr2": "DZ",
+    "abbr3": "DZA",
+    "continent": "Africa",
+    "currency_code": "DZD",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "1-684",
+    "name": "American Samoa",
+    "abbr2": "AS",
+    "abbr3": "ASM",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "376",
+    "name": "Andorra",
+    "abbr2": "AD",
+    "abbr3": "AND",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "244",
+    "name": "Angola",
+    "abbr2": "AO",
+    "abbr3": "AGO",
+    "continent": "Africa",
+    "currency_code": "AOA",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "1-264",
+    "name": "Anguilla",
+    "abbr2": "AI",
+    "abbr3": "AIA",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "1-268",
+    "name": "Antigua and Barbuda",
+    "abbr2": "AG",
+    "abbr3": "ATG",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "54",
+    "name": "Argentina",
+    "abbr2": "AR",
+    "abbr3": "ARG",
+    "continent": "South America",
+    "currency_code": "ARS",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "374",
+    "name": "Armenia",
+    "abbr2": "AM",
+    "abbr3": "ARM",
+    "continent": "Asia",
+    "currency_code": "AMD",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "297",
+    "name": "Aruba",
+    "abbr2": "AW",
+    "abbr3": "ABW",
+    "continent": "North America",
+    "currency_code": "AWG",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "61",
+    "name": "Australia",
+    "abbr2": "AU",
+    "abbr3": "AUS",
+    "continent": "Oceania",
+    "currency_code": "AUD",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "code": "43",
+    "name": "Austria",
+    "abbr2": "AT",
+    "abbr3": "AUT",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "994",
+    "name": "Azerbaijan",
+    "abbr2": "AZ",
+    "abbr3": "AZE",
+    "continent": "Asia",
+    "currency_code": "AZN",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "1-242",
+    "name": "Bahamas",
+    "abbr2": "BS",
+    "abbr3": "BHS",
+    "continent": "North America",
+    "currency_code": "BSD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "973",
+    "name": "Bahrain",
+    "abbr2": "BH",
+    "abbr3": "BHR",
+    "continent": "Asia",
+    "currency_code": "BHD",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "880",
+    "name": "Bangladesh",
+    "abbr2": "BD",
+    "abbr3": "BGD",
+    "continent": "Asia",
+    "currency_code": "BDT",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "1-246",
+    "name": "Barbados",
+    "abbr2": "BB",
+    "abbr3": "BRB",
+    "continent": "North America",
+    "currency_code": "BBD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "375",
+    "name": "Belarus",
+    "abbr2": "BY",
+    "abbr3": "BLR",
+    "continent": "Europe",
+    "currency_code": "BYR",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "32",
+    "name": "Belgium",
+    "abbr2": "BE",
+    "abbr3": "BEL",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "501",
+    "name": "Belize",
+    "abbr2": "BZ",
+    "abbr3": "BLZ",
+    "continent": "North America",
+    "currency_code": "BZD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "229",
+    "name": "Benin",
+    "abbr2": "BJ",
+    "abbr3": "BEN",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "1-441",
+    "name": "Bermuda",
+    "abbr2": "BM",
+    "abbr3": "BMU",
+    "continent": "North America",
+    "currency_code": "BMD",
+    "subregion": "North America"
+  },
+  {
+    "code": "975",
+    "name": "Bhutan",
+    "abbr2": "BT",
+    "abbr3": "BTN",
+    "continent": "Asia",
+    "currency_code": "BTN",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "591",
+    "name": "Bolivia",
+    "abbr2": "BO",
+    "abbr3": "BOL",
+    "continent": "South America",
+    "currency_code": "BOB",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "599",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "abbr2": "BQ",
+    "abbr3": "BES",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "code": "387",
+    "name": "Bosnia and Herzegovina",
+    "abbr2": "BA",
+    "abbr3": "BIH",
+    "continent": "Europe",
+    "currency_code": "BAM",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "267",
+    "name": "Botswana",
+    "abbr2": "BW",
+    "abbr3": "BWA",
+    "continent": "Africa",
+    "currency_code": "BWP",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "55",
+    "name": "Brazil",
+    "abbr2": "BR",
+    "abbr3": "BRA",
+    "continent": "South America",
+    "currency_code": "BRL",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "246",
+    "name": "British Indian Ocean Territory",
+    "abbr2": "IO",
+    "abbr3": "IOT",
+    "continent": "Asia",
+    "currency_code": "USD",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "1-284",
+    "name": "Virgin Islands, British",
+    "abbr2": "VG",
+    "abbr3": "VGB",
+    "continent": "North America",
+    "currency_code": "USD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "673",
+    "name": "Brunei",
+    "abbr2": "BN",
+    "abbr3": "BRN",
+    "continent": "Asia",
+    "currency_code": "BND",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "359",
+    "name": "Bulgaria",
+    "abbr2": "BG",
+    "abbr3": "BGR",
+    "continent": "Europe",
+    "currency_code": "BGN",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "226",
+    "name": "Burkina Faso",
+    "abbr2": "BF",
+    "abbr3": "BFA",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "257",
+    "name": "Burundi",
+    "abbr2": "BI",
+    "abbr3": "BDI",
+    "continent": "Africa",
+    "currency_code": "BIF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "855",
+    "name": "Cambodia",
+    "abbr2": "KH",
+    "abbr3": "KHM",
+    "continent": "Asia",
+    "currency_code": "KHR",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "237",
+    "name": "Cameroon",
+    "abbr2": "CM",
+    "abbr3": "CMR",
+    "continent": "Africa",
+    "currency_code": "XAF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "1",
+    "name": "Canada",
+    "abbr2": "CA",
+    "abbr3": "CAN",
+    "continent": "North America",
+    "currency_code": "CAD",
+    "subregion": "North America"
+  },
+  {
+    "code": "238",
+    "name": "Cape Verde",
+    "abbr2": "CV",
+    "abbr3": "CPV",
+    "continent": "Africa",
+    "currency_code": "CVE",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "1-345",
+    "name": "Cayman Islands",
+    "abbr2": "KY",
+    "abbr3": "CYM",
+    "continent": "North America",
+    "currency_code": "KYD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "236",
+    "name": "Central African Republic",
+    "abbr2": "CF",
+    "abbr3": "CAF",
+    "continent": "Africa",
+    "currency_code": "XAF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "235",
+    "name": "Chad",
+    "abbr2": "TD",
+    "abbr3": "TCD",
+    "continent": "Africa",
+    "currency_code": "XAF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "56",
+    "name": "Chile",
+    "abbr2": "CL",
+    "abbr3": "CHL",
+    "continent": "South America",
+    "currency_code": "CLP",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "86",
+    "name": "China",
+    "abbr2": "CN",
+    "abbr3": "CHN",
+    "continent": "Asia",
+    "currency_code": "CNY",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "61",
+    "name": "Christmas Island",
+    "abbr2": "CX",
+    "abbr3": "CXR",
+    "continent": "Asia",
+    "currency_code": "AUD",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "code": "61",
+    "name": "Cocos (Keeling) Islands",
+    "abbr2": "CC",
+    "abbr3": "CCK",
+    "continent": "Asia",
+    "currency_code": "AUD",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "code": "57",
+    "name": "Colombia",
+    "abbr2": "CO",
+    "abbr3": "COL",
+    "continent": "South America",
+    "currency_code": "COP",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "269",
+    "name": "Comoros",
+    "abbr2": "KM",
+    "abbr3": "COM",
+    "continent": "Africa",
+    "currency_code": "KMF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "242",
+    "name": "Congo",
+    "abbr2": "CG",
+    "abbr3": "COG",
+    "continent": "Africa",
+    "currency_code": "XAF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "243",
+    "name": "The Democratic Republic of Congo",
+    "abbr2": "CD",
+    "abbr3": "COD",
+    "continent": "Africa",
+    "currency_code": "CDF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "682",
+    "name": "Cook Islands",
+    "abbr2": "CK",
+    "abbr3": "COK",
+    "continent": "Oceania",
+    "currency_code": "NZD",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "506",
+    "name": "Costa Rica",
+    "abbr2": "CR",
+    "abbr3": "CRI",
+    "continent": "North America",
+    "currency_code": "CRC",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "225",
+    "name": "Ivory Coast",
+    "abbr2": "CI",
+    "abbr3": "CIV",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "385",
+    "name": "Croatia",
+    "abbr2": "HR",
+    "abbr3": "HRV",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "53",
+    "name": "Cuba",
+    "abbr2": "CU",
+    "abbr3": "CUB",
+    "continent": "North America",
+    "currency_code": "CUP",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "599",
+    "name": "Curacao",
+    "abbr2": "CW",
+    "abbr3": "CUW",
+    "continent": "North America",
+    "currency_code": "ANG",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "357",
+    "name": "Cyprus",
+    "abbr2": "CY",
+    "abbr3": "CYP",
+    "continent": "Asia",
+    "currency_code": "EUR",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "420",
+    "name": "Czech Republic",
+    "abbr2": "CZ",
+    "abbr3": "CZE",
+    "continent": "Europe",
+    "currency_code": "CZK",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "45",
+    "name": "Denmark",
+    "abbr2": "DK",
+    "abbr3": "DNK",
+    "continent": "Europe",
+    "currency_code": "DKK",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "253",
+    "name": "Djibouti",
+    "abbr2": "DJ",
+    "abbr3": "DJI",
+    "continent": "Africa",
+    "currency_code": "DJF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "1-767",
+    "name": "Dominica",
+    "abbr2": "DM",
+    "abbr3": "DMA",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "1-809, 1-829, 1-849",
+    "name": "Dominican Republic",
+    "abbr2": "DO",
+    "abbr3": "DOM",
+    "continent": "North America",
+    "currency_code": "DOP",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "593",
+    "name": "Ecuador",
+    "abbr2": "EC",
+    "abbr3": "ECU",
+    "continent": "South America",
+    "currency_code": "ECS",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "20",
+    "name": "Egypt",
+    "abbr2": "EG",
+    "abbr3": "EGY",
+    "continent": "Africa",
+    "currency_code": "EGP",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "251",
+    "name": "Ethiopia",
+    "abbr2": "ET",
+    "abbr3": "ETH",
+    "continent": "Africa",
+    "currency_code": "ETB",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "503",
+    "name": "El Salvador",
+    "abbr2": "SV",
+    "abbr3": "SLV",
+    "continent": "North America",
+    "currency_code": "SVC",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "240",
+    "name": "Equatorial Guinea",
+    "abbr2": "GQ",
+    "abbr3": "GNQ",
+    "continent": "Africa",
+    "currency_code": "XAF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "291",
+    "name": "Eritrea",
+    "abbr2": "ER",
+    "abbr3": "ERI",
+    "continent": "Africa",
+    "currency_code": "ERN",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "372",
+    "name": "Estonia",
+    "abbr2": "EE",
+    "abbr3": "EST",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "500",
+    "name": "Falkland Islands",
+    "abbr2": "FK",
+    "abbr3": "FLK",
+    "continent": "South America",
+    "currency_code": "FKP",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "298",
+    "name": "Faroe Islands",
+    "abbr2": "FO",
+    "abbr3": "FRO",
+    "continent": "Europe",
+    "currency_code": "DKK",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "679",
+    "name": "Fiji Islands",
+    "abbr2": "FJ",
+    "abbr3": "FJI",
+    "continent": "Oceania",
+    "currency_code": "FJD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "358",
+    "name": "Finland",
+    "abbr2": "FI",
+    "abbr3": "FIN",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "33",
+    "name": "France",
+    "abbr2": "FR",
+    "abbr3": "FRA",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "594",
+    "name": "French Guiana",
+    "abbr2": "GF",
+    "abbr3": "GUF",
+    "continent": "South America",
+    "currency_code": "EUR",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "689",
+    "name": "French Polynesia",
+    "abbr2": "PF",
+    "abbr3": "PYF",
+    "continent": "Oceania",
+    "currency_code": "XPF",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "241",
+    "name": "Gabon",
+    "abbr2": "GA",
+    "abbr3": "GAB",
+    "continent": "Africa",
+    "currency_code": "XAF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "220",
+    "name": "Gambia",
+    "abbr2": "GM",
+    "abbr3": "GMB",
+    "continent": "Africa",
+    "currency_code": "GMD",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "995",
+    "name": "Georgia",
+    "abbr2": "GE",
+    "abbr3": "GEO",
+    "continent": "Asia",
+    "currency_code": "GEL",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "49",
+    "name": "Germany",
+    "abbr2": "DE",
+    "abbr3": "DEU",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "233",
+    "name": "Ghana",
+    "abbr2": "GH",
+    "abbr3": "GHA",
+    "continent": "Africa",
+    "currency_code": "GHS",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "350",
+    "name": "Gibraltar",
+    "abbr2": "GI",
+    "abbr3": "GIB",
+    "continent": "Europe",
+    "currency_code": "GIP",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "30",
+    "name": "Greece",
+    "abbr2": "GR",
+    "abbr3": "GRC",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "299",
+    "name": "Greenland",
+    "abbr2": "GL",
+    "abbr3": "GRL",
+    "continent": "North America",
+    "currency_code": "DKK",
+    "subregion": "North America"
+  },
+  {
+    "code": "1-473",
+    "name": "Grenada",
+    "abbr2": "GD",
+    "abbr3": "GRD",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "590",
+    "name": "Guadeloupe",
+    "abbr2": "GP",
+    "abbr3": "GLP",
+    "continent": "North America",
+    "currency_code": "EUR",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "1-671",
+    "name": "Guam",
+    "abbr2": "GU",
+    "abbr3": "GUM",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "502",
+    "name": "Guatemala",
+    "abbr2": "GT",
+    "abbr3": "GTM",
+    "continent": "North America",
+    "currency_code": "QTQ",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "44-1481",
+    "name": "Guernsey",
+    "abbr2": "GG",
+    "abbr3": "GGY",
+    "continent": "Europe",
+    "currency_code": "GBP",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "224",
+    "name": "Guinea",
+    "abbr2": "GN",
+    "abbr3": "GIN",
+    "continent": "Africa",
+    "currency_code": "GNF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "245",
+    "name": "Guinea-Bissau",
+    "abbr2": "GW",
+    "abbr3": "GNB",
+    "continent": "Africa",
+    "currency_code": "CFA",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "592",
+    "name": "Guyana",
+    "abbr2": "GY",
+    "abbr3": "GUY",
+    "continent": "South America",
+    "currency_code": "GYD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "509",
+    "name": "Haiti",
+    "abbr2": "HT",
+    "abbr3": "HTI",
+    "continent": "North America",
+    "currency_code": "HTG",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "504",
+    "name": "Honduras",
+    "abbr2": "HN",
+    "abbr3": "HND",
+    "continent": "North America",
+    "currency_code": "HNL",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "852",
+    "name": "Hong Kong",
+    "abbr2": "HK",
+    "abbr3": "HKG",
+    "continent": "Asia",
+    "currency_code": "HKD",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "36",
+    "name": "Hungary",
+    "abbr2": "HU",
+    "abbr3": "HUN",
+    "continent": "Europe",
+    "currency_code": "HUF",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "354",
+    "name": "Iceland",
+    "abbr2": "IS",
+    "abbr3": "ISL",
+    "continent": "Europe",
+    "currency_code": "ISK",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "91",
+    "name": "India",
+    "abbr2": "IN",
+    "abbr3": "IND",
+    "continent": "Asia",
+    "currency_code": "INR",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "62",
+    "name": "Indonesia",
+    "abbr2": "ID",
+    "abbr3": "IDN",
+    "continent": "Asia",
+    "currency_code": "IDR",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "98",
+    "name": "Iran",
+    "abbr2": "IR",
+    "abbr3": "IRN",
+    "continent": "Asia",
+    "currency_code": "IRR",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "964",
+    "name": "Iraq",
+    "abbr2": "IQ",
+    "abbr3": "IRQ",
+    "continent": "Asia",
+    "currency_code": "IQD",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "353",
+    "name": "Ireland",
+    "abbr2": "IE",
+    "abbr3": "IRL",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "44-1624",
+    "name": "Isle of Man",
+    "abbr2": "IM",
+    "abbr3": "IMN",
+    "continent": "Europe",
+    "currency_code": "IMP",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "972",
+    "name": "Israel",
+    "abbr2": "IL",
+    "abbr3": "ISR",
+    "continent": "Asia",
+    "currency_code": "ILS",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "39",
+    "name": "Italy",
+    "abbr2": "IT",
+    "abbr3": "ITA",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "1-876",
+    "name": "Jamaica",
+    "abbr2": "JM",
+    "abbr3": "JAM",
+    "continent": "North America",
+    "currency_code": "JMD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "81",
+    "name": "Japan",
+    "abbr2": "JP",
+    "abbr3": "JPN",
+    "continent": "Asia",
+    "currency_code": "JPY",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "44-1534",
+    "name": "Jersey",
+    "abbr2": "JE",
+    "abbr3": "JEY",
+    "continent": "Europe",
+    "currency_code": "GBP",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "962",
+    "name": "Jordan",
+    "abbr2": "JO",
+    "abbr3": "JOR",
+    "continent": "Asia",
+    "currency_code": "JOD",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "7",
+    "name": "Kazakhstan",
+    "abbr2": "KZ",
+    "abbr3": "KAZ",
+    "continent": "Asia",
+    "currency_code": "KZT",
+    "subregion": "Central Asia"
+  },
+  {
+    "code": "254",
+    "name": "Kenya",
+    "abbr2": "KE",
+    "abbr3": "KEN",
+    "continent": "Africa",
+    "currency_code": "KES",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "686",
+    "name": "Kiribati",
+    "abbr2": "KI",
+    "abbr3": "KIR",
+    "continent": "Oceania",
+    "currency_code": "AUD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "383",
+    "name": "Kosovo",
+    "abbr2": "XK",
+    "abbr3": "XKX",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "965",
+    "name": "Kuwait",
+    "abbr2": "KW",
+    "abbr3": "KWT",
+    "continent": "Asia",
+    "currency_code": "KWD",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "996",
+    "name": "Kyrgyzstan",
+    "abbr2": "KG",
+    "abbr3": "KGZ",
+    "continent": "Asia",
+    "currency_code": "KGS",
+    "subregion": "Central Asia"
+  },
+  {
+    "code": "856",
+    "name": "Laos",
+    "abbr2": "LA",
+    "abbr3": "LAO",
+    "continent": "Asia",
+    "currency_code": "LAK",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "371",
+    "name": "Latvia",
+    "abbr2": "LV",
+    "abbr3": "LVA",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "961",
+    "name": "Lebanon",
+    "abbr2": "LB",
+    "abbr3": "LBN",
+    "continent": "Asia",
+    "currency_code": "LBP",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "266",
+    "name": "Lesotho",
+    "abbr2": "LS",
+    "abbr3": "LSO",
+    "continent": "Africa",
+    "currency_code": "LSL",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "231",
+    "name": "Liberia",
+    "abbr2": "LR",
+    "abbr3": "LBR",
+    "continent": "Africa",
+    "currency_code": "LRD",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "218",
+    "name": "Libyan Arab Jamahiriya",
+    "abbr2": "LY",
+    "abbr3": "LBY",
+    "continent": "Africa",
+    "currency_code": "LYD",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "423",
+    "name": "Liechtenstein",
+    "abbr2": "LI",
+    "abbr3": "LIE",
+    "continent": "Europe",
+    "currency_code": "CHF",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "370",
+    "name": "Lithuania",
+    "abbr2": "LT",
+    "abbr3": "LTU",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "352",
+    "name": "Luxembourg",
+    "abbr2": "LU",
+    "abbr3": "LUX",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "853",
+    "name": "Macau",
+    "abbr2": "MO",
+    "abbr3": "MAC",
+    "continent": "Asia",
+    "currency_code": "MOP",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "389",
+    "name": "North Macedonia",
+    "abbr2": "MK",
+    "abbr3": "MKD",
+    "continent": "Europe",
+    "currency_code": "MKD",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "261",
+    "name": "Madagascar",
+    "abbr2": "MG",
+    "abbr3": "MDG",
+    "continent": "Africa",
+    "currency_code": "MGF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "265",
+    "name": "Malawi",
+    "abbr2": "MW",
+    "abbr3": "MWI",
+    "continent": "Africa",
+    "currency_code": "MWK",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "60",
+    "name": "Malaysia",
+    "abbr2": "MY",
+    "abbr3": "MYS",
+    "continent": "Asia",
+    "currency_code": "MYR",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "960",
+    "name": "Maldives",
+    "abbr2": "MV",
+    "abbr3": "MDV",
+    "continent": "Asia",
+    "currency_code": "MVR",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "223",
+    "name": "Mali",
+    "abbr2": "ML",
+    "abbr3": "MLI",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "356",
+    "name": "Malta",
+    "abbr2": "MT",
+    "abbr3": "MLT",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "692",
+    "name": "Marshall Islands",
+    "abbr2": "MH",
+    "abbr3": "MHL",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "596",
+    "name": "Martinique",
+    "abbr2": "MQ",
+    "abbr3": "MTQ",
+    "continent": "North America",
+    "currency_code": "EUR",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "222",
+    "name": "Mauritania",
+    "abbr2": "MR",
+    "abbr3": "MRT",
+    "continent": "Africa",
+    "currency_code": "MRO",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "230",
+    "name": "Mauritius",
+    "abbr2": "MU",
+    "abbr3": "MUS",
+    "continent": "Africa",
+    "currency_code": "MUR",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "262",
+    "name": "Mayotte",
+    "abbr2": "YT",
+    "abbr3": "MYT",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "52",
+    "name": "Mexico",
+    "abbr2": "MX",
+    "abbr3": "MEX",
+    "continent": "North America",
+    "currency_code": "MXN",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "691",
+    "name": "Micronesia, Federated States of",
+    "abbr2": "FM",
+    "abbr3": "FSM",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "373",
+    "name": "Moldova",
+    "abbr2": "MD",
+    "abbr3": "MDA",
+    "continent": "Europe",
+    "currency_code": "MDL",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "377",
+    "name": "Monaco",
+    "abbr2": "MC",
+    "abbr3": "MCO",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "976",
+    "name": "Mongolia",
+    "abbr2": "MN",
+    "abbr3": "MNG",
+    "continent": "Asia",
+    "currency_code": "MNT",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "382",
+    "name": "Montenegro",
+    "abbr2": "ME",
+    "abbr3": "MNE",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "1-664",
+    "name": "Montserrat",
+    "abbr2": "MS",
+    "abbr3": "MSR",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "212",
+    "name": "Morocco",
+    "abbr2": "MA",
+    "abbr3": "MAR",
+    "continent": "Africa",
+    "currency_code": "MAD",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "258",
+    "name": "Mozambique",
+    "abbr2": "MZ",
+    "abbr3": "MOZ",
+    "continent": "Africa",
+    "currency_code": "MZN",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "95",
+    "name": "Myanmar",
+    "abbr2": "MM",
+    "abbr3": "MMR",
+    "continent": "Asia",
+    "currency_code": "MMR",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "264",
+    "name": "Namibia",
+    "abbr2": "NA",
+    "abbr3": "NAM",
+    "continent": "Africa",
+    "currency_code": "NAD",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "674",
+    "name": "Nauru",
+    "abbr2": "NR",
+    "abbr3": "NRU",
+    "continent": "Oceania",
+    "currency_code": "AUD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "977",
+    "name": "Nepal",
+    "abbr2": "NP",
+    "abbr3": "NPL",
+    "continent": "Asia",
+    "currency_code": "NPR",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "31",
+    "name": "Netherlands",
+    "abbr2": "NL",
+    "abbr3": "NLD",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "599",
+    "name": "Netherlands Antilles",
+    "abbr2": "AN",
+    "abbr3": "ANT",
+    "continent": null,
+    "currency_code": "ANG",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "687",
+    "name": "New Caledonia",
+    "abbr2": "NC",
+    "abbr3": "NCL",
+    "continent": "Oceania",
+    "currency_code": "XPF",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "64",
+    "name": "New Zealand",
+    "abbr2": "NZ",
+    "abbr3": "NZL",
+    "continent": "Oceania",
+    "currency_code": "NZD",
+    "subregion": "Australia and New Zealand"
+  },
+  {
+    "code": "505",
+    "name": "Nicaragua",
+    "abbr2": "NI",
+    "abbr3": "NIC",
+    "continent": "North America",
+    "currency_code": "NIO",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "227",
+    "name": "Niger",
+    "abbr2": "NE",
+    "abbr3": "NER",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "234",
+    "name": "Nigeria",
+    "abbr2": "NG",
+    "abbr3": "NGA",
+    "continent": "Africa",
+    "currency_code": "NGN",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "683",
+    "name": "Niue",
+    "abbr2": "NU",
+    "abbr3": "NIU",
+    "continent": "Oceania",
+    "currency_code": "NZD",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "1-670",
+    "name": "Northern Mariana Islands",
+    "abbr2": "MP",
+    "abbr3": "MNP",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "850",
+    "name": "North Korea",
+    "abbr2": "KP",
+    "abbr3": "PRK",
+    "continent": "Asia",
+    "currency_code": "KPW",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "47",
+    "name": "Norway",
+    "abbr2": "NO",
+    "abbr3": "NOR",
+    "continent": "Europe",
+    "currency_code": "NOK",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "968",
+    "name": "Oman",
+    "abbr2": "OM",
+    "abbr3": "OMN",
+    "continent": "Asia",
+    "currency_code": "OMR",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "92",
+    "name": "Pakistan",
+    "abbr2": "PK",
+    "abbr3": "PAK",
+    "continent": "Asia",
+    "currency_code": "PKR",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "680",
+    "name": "Palau",
+    "abbr2": "PW",
+    "abbr3": "PLW",
+    "continent": "Oceania",
+    "currency_code": "USD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "507",
+    "name": "Panama",
+    "abbr2": "PA",
+    "abbr3": "PAN",
+    "continent": "North America",
+    "currency_code": "PAB",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "675",
+    "name": "Papua New Guinea",
+    "abbr2": "PG",
+    "abbr3": "PNG",
+    "continent": "Oceania",
+    "currency_code": "PGK",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "595",
+    "name": "Paraguay",
+    "abbr2": "PY",
+    "abbr3": "PRY",
+    "continent": "South America",
+    "currency_code": "PYG",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "51",
+    "name": "Peru",
+    "abbr2": "PE",
+    "abbr3": "PER",
+    "continent": "South America",
+    "currency_code": "PEN",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "63",
+    "name": "Philippines",
+    "abbr2": "PH",
+    "abbr3": "PHL",
+    "continent": "Asia",
+    "currency_code": "PHP",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "64",
+    "name": "Pitcairn Islands",
+    "abbr2": "PN",
+    "abbr3": "PCN",
+    "continent": "Oceania",
+    "currency_code": "NZD",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "48",
+    "name": "Poland",
+    "abbr2": "PL",
+    "abbr3": "POL",
+    "continent": "Europe",
+    "currency_code": "PLN",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "351",
+    "name": "Portugal",
+    "abbr2": "PT",
+    "abbr3": "PRT",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "1-787, 1-939",
+    "name": "Puerto Rico",
+    "abbr2": "PR",
+    "abbr3": "PRI",
+    "continent": "North America",
+    "currency_code": "USD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "974",
+    "name": "Qatar",
+    "abbr2": "QA",
+    "abbr3": "QAT",
+    "continent": "Asia",
+    "currency_code": "QAR",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "262",
+    "name": "Reunion",
+    "abbr2": "RE",
+    "abbr3": "REU",
+    "continent": "Asia",
+    "currency_code": "EUR",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "40",
+    "name": "Romania",
+    "abbr2": "RO",
+    "abbr3": "ROU",
+    "continent": "Europe",
+    "currency_code": "RON",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "7",
+    "name": "Russian Federation",
+    "abbr2": "RU",
+    "abbr3": "RUS",
+    "continent": "Europe",
+    "currency_code": "RUB",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "250",
+    "name": "Rwanda",
+    "abbr2": "RW",
+    "abbr3": "RWA",
+    "continent": "Africa",
+    "currency_code": "RWF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "508",
+    "name": "Saint Pierre and Miquelon",
+    "abbr2": "PM",
+    "abbr3": "SPM",
+    "continent": "North America",
+    "currency_code": "EUR",
+    "subregion": "North America"
+  },
+  {
+    "code": "590",
+    "name": "Saint Barthelemy",
+    "abbr2": "BL",
+    "abbr3": "BLM",
+    "continent": "North America",
+    "currency_code": "EUR",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "290",
+    "name": "Saint Helena",
+    "abbr2": "SH",
+    "abbr3": "SHN",
+    "continent": "Africa",
+    "currency_code": "SHP",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "685",
+    "name": "Samoa",
+    "abbr2": "WS",
+    "abbr3": "WSM",
+    "continent": "Oceania",
+    "currency_code": "WST",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "239",
+    "name": "Sao Tome and Principe",
+    "abbr2": "ST",
+    "abbr3": "STP",
+    "continent": "Africa",
+    "currency_code": "STD",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "966",
+    "name": "Saudi Arabia",
+    "abbr2": "SA",
+    "abbr3": "SAU",
+    "continent": "Asia",
+    "currency_code": "SAR",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "221",
+    "name": "Senegal",
+    "abbr2": "SN",
+    "abbr3": "SEN",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "381",
+    "name": "Serbia",
+    "abbr2": "RS",
+    "abbr3": "SRB",
+    "continent": "Europe",
+    "currency_code": "RSD",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "248",
+    "name": "Seychelles",
+    "abbr2": "SC",
+    "abbr3": "SYC",
+    "continent": "Africa",
+    "currency_code": "SCR",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "232",
+    "name": "Sierra Leone",
+    "abbr2": "SL",
+    "abbr3": "SLE",
+    "continent": "Africa",
+    "currency_code": "SLL",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "65",
+    "name": "Singapore",
+    "abbr2": "SG",
+    "abbr3": "SGP",
+    "continent": "Asia",
+    "currency_code": "SGD",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "421",
+    "name": "Slovakia",
+    "abbr2": "SK",
+    "abbr3": "SVK",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "386",
+    "name": "Slovenia",
+    "abbr2": "SI",
+    "abbr3": "SVN",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "677",
+    "name": "Solomon Islands",
+    "abbr2": "SB",
+    "abbr3": "SLB",
+    "continent": "Oceania",
+    "currency_code": "SBD",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "252",
+    "name": "Somalia",
+    "abbr2": "SO",
+    "abbr3": "SOM",
+    "continent": "Africa",
+    "currency_code": "SOS",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "27",
+    "name": "South Africa",
+    "abbr2": "ZA",
+    "abbr3": "ZAF",
+    "continent": "Africa",
+    "currency_code": "ZAR",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "82",
+    "name": "South Korea",
+    "abbr2": "KR",
+    "abbr3": "KOR",
+    "continent": "Asia",
+    "currency_code": "KRW",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "211",
+    "name": "South Sudan",
+    "abbr2": "SS",
+    "abbr3": "SSD",
+    "continent": "Africa",
+    "currency_code": "SSP",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "34",
+    "name": "Spain",
+    "abbr2": "ES",
+    "abbr3": "ESP",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "94",
+    "name": "Sri Lanka",
+    "abbr2": "LK",
+    "abbr3": "LKA",
+    "continent": "Asia",
+    "currency_code": "LKR",
+    "subregion": "Southern Asia"
+  },
+  {
+    "code": "1-721",
+    "name": "Sint Maarten",
+    "abbr2": "SX",
+    "abbr3": "SXM",
+    "continent": "North America",
+    "currency_code": "ANG",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "1-869",
+    "name": "Saint Kitts and Nevis",
+    "abbr2": "KN",
+    "abbr3": "KNA",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "1-758",
+    "name": "Saint Lucia",
+    "abbr2": "LC",
+    "abbr3": "LCA",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "1-784",
+    "name": "Saint Vincent and the Grenadines",
+    "abbr2": "VC",
+    "abbr3": "VCT",
+    "continent": "North America",
+    "currency_code": "XCD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "249",
+    "name": "Sudan",
+    "abbr2": "SD",
+    "abbr3": "SDN",
+    "continent": "Africa",
+    "currency_code": "SDG",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "597",
+    "name": "Suriname",
+    "abbr2": "SR",
+    "abbr3": "SUR",
+    "continent": "South America",
+    "currency_code": "SRD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "47",
+    "name": "Svalbard and Jan Mayen",
+    "abbr2": "SJ",
+    "abbr3": "SJM",
+    "continent": "Europe",
+    "currency_code": "NOK",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "268",
+    "name": "Swaziland",
+    "abbr2": "SZ",
+    "abbr3": "SWZ",
+    "continent": "Africa",
+    "currency_code": "SZL",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "46",
+    "name": "Sweden",
+    "abbr2": "SE",
+    "abbr3": "SWE",
+    "continent": "Europe",
+    "currency_code": "SEK",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "41",
+    "name": "Switzerland",
+    "abbr2": "CH",
+    "abbr3": "CHE",
+    "continent": "Europe",
+    "currency_code": "CHF",
+    "subregion": "Western Europe"
+  },
+  {
+    "code": "963",
+    "name": "Syria",
+    "abbr2": "SY",
+    "abbr3": "SYR",
+    "continent": "Asia",
+    "currency_code": "SYP",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "886",
+    "name": "Taiwan",
+    "abbr2": "TW",
+    "abbr3": "TWN",
+    "continent": "Asia",
+    "currency_code": "TWD",
+    "subregion": "Eastern Asia"
+  },
+  {
+    "code": "992",
+    "name": "Tajikistan",
+    "abbr2": "TJ",
+    "abbr3": "TJK",
+    "continent": "Asia",
+    "currency_code": "TJS",
+    "subregion": "Central Asia"
+  },
+  {
+    "code": "255",
+    "name": "Tanzania",
+    "abbr2": "TZ",
+    "abbr3": "TZA",
+    "continent": "Africa",
+    "currency_code": "TZS",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "66",
+    "name": "Thailand",
+    "abbr2": "TH",
+    "abbr3": "THA",
+    "continent": "Asia",
+    "currency_code": "THB",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "670",
+    "name": "East Timor",
+    "abbr2": "TL",
+    "abbr3": "TLS",
+    "continent": "Asia",
+    "currency_code": "USD",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "228",
+    "name": "Togo",
+    "abbr2": "TG",
+    "abbr3": "TGO",
+    "continent": "Africa",
+    "currency_code": "XOF",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "676",
+    "name": "Tonga",
+    "abbr2": "TO",
+    "abbr3": "TON",
+    "continent": "Oceania",
+    "currency_code": "TOP",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "1-868",
+    "name": "Trinidad and Tobago",
+    "abbr2": "TT",
+    "abbr3": "TTO",
+    "continent": "North America",
+    "currency_code": "TTD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "216",
+    "name": "Tunisia",
+    "abbr2": "TN",
+    "abbr3": "TUN",
+    "continent": "Africa",
+    "currency_code": "TND",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "90",
+    "name": "Turkey",
+    "abbr2": "TR",
+    "abbr3": "TUR",
+    "continent": "Asia",
+    "currency_code": "TRY",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "993",
+    "name": "Turkmenistan",
+    "abbr2": "TM",
+    "abbr3": "TKM",
+    "continent": "Asia",
+    "currency_code": "TMT",
+    "subregion": "Central Asia"
+  },
+  {
+    "code": "1-649",
+    "name": "Turks and Caicos Islands",
+    "abbr2": "TC",
+    "abbr3": "TCA",
+    "continent": "North America",
+    "currency_code": "USD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "688",
+    "name": "Tuvalu",
+    "abbr2": "TV",
+    "abbr3": "TUV",
+    "continent": "Oceania",
+    "currency_code": "AUD",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "380",
+    "name": "Ukraine",
+    "abbr2": "UA",
+    "abbr3": "UKR",
+    "continent": "Europe",
+    "currency_code": "UAH",
+    "subregion": "Eastern Europe"
+  },
+  {
+    "code": "44",
+    "name": "United Kingdom",
+    "abbr2": "GB",
+    "abbr3": "GBR",
+    "continent": "Europe",
+    "currency_code": "GBP",
+    "subregion": "Northern Europe"
+  },
+  {
+    "code": "1",
+    "name": "United States",
+    "abbr2": "US",
+    "abbr3": "USA",
+    "continent": "North America",
+    "currency_code": "USD",
+    "subregion": "North America"
+  },
+  {
+    "code": "971",
+    "name": "United Arab Emirates",
+    "abbr2": "AE",
+    "abbr3": "ARE",
+    "continent": "Asia",
+    "currency_code": "AED",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "598",
+    "name": "Uruguay",
+    "abbr2": "UY",
+    "abbr3": "URY",
+    "continent": "South America",
+    "currency_code": "UYU",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "998",
+    "name": "Uzbekistan",
+    "abbr2": "UZ",
+    "abbr3": "UZB",
+    "continent": "Asia",
+    "currency_code": "UZS",
+    "subregion": "Central Asia"
+  },
+  {
+    "code": "678",
+    "name": "Vanuatu",
+    "abbr2": "VU",
+    "abbr3": "VUT",
+    "continent": "Oceania",
+    "currency_code": "VUV",
+    "subregion": "Melanesia"
+  },
+  {
+    "code": "379",
+    "name": "Holy See (Vatican City State)",
+    "abbr2": "VA",
+    "abbr3": "VAT",
+    "continent": "Europe",
+    "currency_code": "EUR",
+    "subregion": "Southern Europe"
+  },
+  {
+    "code": "58",
+    "name": "Venezuela",
+    "abbr2": "VE",
+    "abbr3": "VEN",
+    "continent": "South America",
+    "currency_code": "VEF",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "84",
+    "name": "Vietnam",
+    "abbr2": "VN",
+    "abbr3": "VNM",
+    "continent": "Asia",
+    "currency_code": "VND",
+    "subregion": "South-eastern Asia"
+  },
+  {
+    "code": "1-340",
+    "name": "Virgin Islands, U.S.",
+    "abbr2": "VI",
+    "abbr3": "VIR",
+    "continent": "North America",
+    "currency_code": "USD",
+    "subregion": "Latin America and the Caribbean"
+  },
+  {
+    "code": "681",
+    "name": "Wallis and Futuna",
+    "abbr2": "WF",
+    "abbr3": "WLF",
+    "continent": "Oceania",
+    "currency_code": "XPF",
+    "subregion": "Polynesia"
+  },
+  {
+    "code": "970",
+    "name": "Palestine",
+    "abbr2": "PS",
+    "abbr3": "PSE",
+    "continent": "Asia",
+    "currency_code": "null",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "212",
+    "name": "Western Sahara",
+    "abbr2": "EH",
+    "abbr3": "ESH",
+    "continent": "Africa",
+    "currency_code": "MAD",
+    "subregion": "Northern Africa"
+  },
+  {
+    "code": "967",
+    "name": "Yemen",
+    "abbr2": "YE",
+    "abbr3": "YEM",
+    "continent": "Asia",
+    "currency_code": "YER",
+    "subregion": "Western Asia"
+  },
+  {
+    "code": "260",
+    "name": "Zambia",
+    "abbr2": "ZM",
+    "abbr3": "ZMB",
+    "continent": "Africa",
+    "currency_code": "ZMW",
+    "subregion": "Sub-Saharan Africa"
+  },
+  {
+    "code": "263",
+    "name": "Zimbabwe",
+    "abbr2": "ZW",
+    "abbr3": "ZWE",
+    "continent": "Africa",
+    "currency_code": "ZWD",
+    "subregion": "Sub-Saharan Africa"
+  }
+]
