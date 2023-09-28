@@ -6,7 +6,8 @@
     "abbr3": "UGA",
     "continent": "Africa",
     "currency_code": "UGX",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "672",
@@ -15,7 +16,8 @@
     "abbr3": "ATA",
     "continent": "Antarctica",
     "currency_code": "XCD",
-    "subregion": "Antarctica"
+    "subregion": "Antarctica",
+    "phoneMasks": "1##-###"
   },
   {
     "code": "590",
@@ -24,7 +26,8 @@
     "abbr3": "MAF",
     "continent": "North America",
     "currency_code": "EUR",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "378",
@@ -33,7 +36,8 @@
     "abbr3": "SMR",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "####-######"
   },
   {
     "code": "690",
@@ -42,7 +46,8 @@
     "abbr3": "TKL",
     "continent": "Oceania",
     "currency_code": "NZD",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "####"
   },
   {
     "code": "47",
@@ -51,7 +56,8 @@
     "abbr3": "BVT",
     "continent": "South America",
     "currency_code": "NOK",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": []
   },
   {
     "code": "000",
@@ -60,7 +66,8 @@
     "abbr3": "ATF",
     "continent": "Eastern Africa",
     "currency_code": "EUR",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": []
   },
   {
     "code": "672",
@@ -69,7 +76,8 @@
     "abbr3": "NFK",
     "continent": "Oceania",
     "currency_code": "AUD",
-    "subregion": "Australia and New Zealand"
+    "subregion": "Australia and New Zealand",
+    "phoneMasks": "3##-###"
   },
   {
     "code": "93",
@@ -78,7 +86,8 @@
     "abbr3": "AFG",
     "continent": "Asia",
     "currency_code": "AFN",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "358",
@@ -87,7 +96,8 @@
     "abbr3": "ALA",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-##-##"
   },
   {
     "code": "355",
@@ -96,7 +106,8 @@
     "abbr3": "ALB",
     "continent": "Europe",
     "currency_code": "ALL",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "213",
@@ -105,7 +116,8 @@
     "abbr3": "DZA",
     "continent": "Africa",
     "currency_code": "DZD",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "1-684",
@@ -114,7 +126,8 @@
     "abbr3": "ASM",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "(684)###-####"
   },
   {
     "code": "376",
@@ -123,7 +136,8 @@
     "abbr3": "AND",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "###-###"
   },
   {
     "code": "244",
@@ -132,7 +146,8 @@
     "abbr3": "AGO",
     "continent": "Africa",
     "currency_code": "AOA",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "1-264",
@@ -141,7 +156,8 @@
     "abbr3": "AIA",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(264)###-####"
   },
   {
     "code": "1-268",
@@ -150,7 +166,8 @@
     "abbr3": "ATG",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(268)###-####"
   },
   {
     "code": "54",
@@ -159,7 +176,8 @@
     "abbr3": "ARG",
     "continent": "South America",
     "currency_code": "ARS",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "374",
@@ -168,7 +186,8 @@
     "abbr3": "ARM",
     "continent": "Asia",
     "currency_code": "AMD",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "297",
@@ -177,7 +196,8 @@
     "abbr3": "ABW",
     "continent": "North America",
     "currency_code": "AWG",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "###-####"
   },
   {
     "code": "61",
@@ -186,7 +206,8 @@
     "abbr3": "AUS",
     "continent": "Oceania",
     "currency_code": "AUD",
-    "subregion": "Australia and New Zealand"
+    "subregion": "Australia and New Zealand",
+    "phoneMasks": "#-####-####"
   },
   {
     "code": "43",
@@ -195,7 +216,8 @@
     "abbr3": "AUT",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "994",
@@ -204,7 +226,8 @@
     "abbr3": "AZE",
     "continent": "Asia",
     "currency_code": "AZN",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "##-###-##-##"
   },
   {
     "code": "1-242",
@@ -213,7 +236,8 @@
     "abbr3": "BHS",
     "continent": "North America",
     "currency_code": "BSD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(242)###-####"
   },
   {
     "code": "973",
@@ -222,7 +246,8 @@
     "abbr3": "BHR",
     "continent": "Asia",
     "currency_code": "BHD",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "####-####"
   },
   {
     "code": "880",
@@ -231,7 +256,8 @@
     "abbr3": "BGD",
     "continent": "Asia",
     "currency_code": "BDT",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "1###-######"
   },
   {
     "code": "1-246",
@@ -240,7 +266,8 @@
     "abbr3": "BRB",
     "continent": "North America",
     "currency_code": "BBD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(246)###-####"
   },
   {
     "code": "375",
@@ -249,7 +276,8 @@
     "abbr3": "BLR",
     "continent": "Europe",
     "currency_code": "BYR",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(##)###-##-##"
   },
   {
     "code": "32",
@@ -258,7 +286,8 @@
     "abbr3": "BEL",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "501",
@@ -267,7 +296,8 @@
     "abbr3": "BLZ",
     "continent": "North America",
     "currency_code": "BZD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "###-####"
   },
   {
     "code": "229",
@@ -276,7 +306,8 @@
     "abbr3": "BEN",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "1-441",
@@ -285,7 +316,8 @@
     "abbr3": "BMU",
     "continent": "North America",
     "currency_code": "BMD",
-    "subregion": "North America"
+    "subregion": "North America",
+    "phoneMasks": "(441)###-####"
   },
   {
     "code": "975",
@@ -294,7 +326,8 @@
     "abbr3": "BTN",
     "continent": "Asia",
     "currency_code": "BTN",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": ["17-###-###", "77-###-###", "#-###-###"]
   },
   {
     "code": "591",
@@ -303,7 +336,8 @@
     "abbr3": "BOL",
     "continent": "South America",
     "currency_code": "BOB",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#-###-####"
   },
   {
     "code": "599",
@@ -312,7 +346,8 @@
     "abbr3": "BES",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Australia and New Zealand"
+    "subregion": "Australia and New Zealand",
+    "phoneMasks": []
   },
   {
     "code": "387",
@@ -321,7 +356,8 @@
     "abbr3": "BIH",
     "continent": "Europe",
     "currency_code": "BAM",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": ["##-####", "##-#####"]
   },
   {
     "code": "267",
@@ -330,7 +366,8 @@
     "abbr3": "BWA",
     "continent": "Africa",
     "currency_code": "BWP",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "55",
@@ -339,7 +376,8 @@
     "abbr3": "BRA",
     "continent": "South America",
     "currency_code": "BRL",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": ["(##)####-####", "(##)#####-####"]
   },
   {
     "code": "246",
@@ -348,7 +386,8 @@
     "abbr3": "IOT",
     "continent": "Asia",
     "currency_code": "USD",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "###-####"
   },
   {
     "code": "1-284",
@@ -357,7 +396,8 @@
     "abbr3": "VGB",
     "continent": "North America",
     "currency_code": "USD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(284)###-####"
   },
   {
     "code": "673",
@@ -366,7 +406,8 @@
     "abbr3": "BRN",
     "continent": "Asia",
     "currency_code": "BND",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": "###-####"
   },
   {
     "code": "359",
@@ -375,7 +416,8 @@
     "abbr3": "BGR",
     "continent": "Europe",
     "currency_code": "BGN",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "226",
@@ -384,7 +426,8 @@
     "abbr3": "BFA",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "257",
@@ -393,7 +436,8 @@
     "abbr3": "BDI",
     "continent": "Africa",
     "currency_code": "BIF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "855",
@@ -402,7 +446,8 @@
     "abbr3": "KHM",
     "continent": "Asia",
     "currency_code": "KHR",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "237",
@@ -411,7 +456,8 @@
     "abbr3": "CMR",
     "continent": "Africa",
     "currency_code": "XAF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "####-####"
   },
   {
     "code": "1",
@@ -420,7 +466,8 @@
     "abbr3": "CAN",
     "continent": "North America",
     "currency_code": "CAD",
-    "subregion": "North America"
+    "subregion": "North America",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "238",
@@ -429,7 +476,8 @@
     "abbr3": "CPV",
     "continent": "Africa",
     "currency_code": "CVE",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)##-##"
   },
   {
     "code": "1-345",
@@ -438,7 +486,8 @@
     "abbr3": "CYM",
     "continent": "North America",
     "currency_code": "KYD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(345)###-####"
   },
   {
     "code": "236",
@@ -447,7 +496,8 @@
     "abbr3": "CAF",
     "continent": "Africa",
     "currency_code": "XAF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "235",
@@ -456,7 +506,8 @@
     "abbr3": "TCD",
     "continent": "Africa",
     "currency_code": "XAF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-##-##"
   },
   {
     "code": "56",
@@ -465,7 +516,8 @@
     "abbr3": "CHL",
     "continent": "South America",
     "currency_code": "CLP",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#-####-####"
   },
   {
     "code": "86",
@@ -474,7 +526,8 @@
     "abbr3": "CHN",
     "continent": "Asia",
     "currency_code": "CNY",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": ["(###)####-###", "(###)####-####", "##-#####-#####"]
   },
   {
     "code": "61",
@@ -483,7 +536,8 @@
     "abbr3": "CXR",
     "continent": "Asia",
     "currency_code": "AUD",
-    "subregion": "Australia and New Zealand"
+    "subregion": "Australia and New Zealand",
+    "phoneMasks": "#-####-####"
   },
   {
     "code": "61",
@@ -492,7 +546,8 @@
     "abbr3": "CCK",
     "continent": "Asia",
     "currency_code": "AUD",
-    "subregion": "Australia and New Zealand"
+    "subregion": "Australia and New Zealand",
+    "phoneMasks": "#-####-####"
   },
   {
     "code": "57",
@@ -501,7 +556,8 @@
     "abbr3": "COL",
     "continent": "South America",
     "currency_code": "COP",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "269",
@@ -510,7 +566,8 @@
     "abbr3": "COM",
     "continent": "Africa",
     "currency_code": "KMF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-#####"
   },
   {
     "code": "242",
@@ -519,7 +576,8 @@
     "abbr3": "COG",
     "continent": "Africa",
     "currency_code": "XAF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-#####"
   },
   {
     "code": "243",
@@ -528,7 +586,8 @@
     "abbr3": "COD",
     "continent": "Africa",
     "currency_code": "CDF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "682",
@@ -537,7 +596,8 @@
     "abbr3": "COK",
     "continent": "Oceania",
     "currency_code": "NZD",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "##-###"
   },
   {
     "code": "506",
@@ -546,7 +606,8 @@
     "abbr3": "CRI",
     "continent": "North America",
     "currency_code": "CRC",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "####-####"
   },
   {
     "code": "225",
@@ -555,7 +616,8 @@
     "abbr3": "CIV",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "385",
@@ -564,7 +626,8 @@
     "abbr3": "HRV",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "53",
@@ -573,7 +636,8 @@
     "abbr3": "CUB",
     "continent": "North America",
     "currency_code": "CUP",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#-###-####"
   },
   {
     "code": "599",
@@ -582,7 +646,8 @@
     "abbr3": "CUW",
     "continent": "North America",
     "currency_code": "ANG",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": []
   },
   {
     "code": "357",
@@ -591,7 +656,8 @@
     "abbr3": "CYP",
     "continent": "Asia",
     "currency_code": "EUR",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "420",
@@ -600,7 +666,8 @@
     "abbr3": "CZE",
     "continent": "Europe",
     "currency_code": "CZK",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "45",
@@ -609,7 +676,8 @@
     "abbr3": "DNK",
     "continent": "Europe",
     "currency_code": "DKK",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "##-##-##-##"
   },
   {
     "code": "253",
@@ -618,7 +686,8 @@
     "abbr3": "DJI",
     "continent": "Africa",
     "currency_code": "DJF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-##-##"
   },
   {
     "code": "1-767",
@@ -627,7 +696,8 @@
     "abbr3": "DMA",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(767)###-####"
   },
   {
     "code": "1-809, 1-829, 1-849",
@@ -636,7 +706,8 @@
     "abbr3": "DOM",
     "continent": "North America",
     "currency_code": "DOP",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": ["(809)###-####", "(829)###-####", "(849)###-####"]
   },
   {
     "code": "593",
@@ -645,7 +716,8 @@
     "abbr3": "ECU",
     "continent": "South America",
     "currency_code": "ECS",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": ["#-###-####", "##-###-####"]
   },
   {
     "code": "20",
@@ -654,7 +726,8 @@
     "abbr3": "EGY",
     "continent": "Africa",
     "currency_code": "EGP",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "251",
@@ -663,7 +736,8 @@
     "abbr3": "ETH",
     "continent": "Africa",
     "currency_code": "ETB",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "503",
@@ -672,7 +746,8 @@
     "abbr3": "SLV",
     "continent": "North America",
     "currency_code": "SVC",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "240",
@@ -681,7 +756,8 @@
     "abbr3": "GNQ",
     "continent": "Africa",
     "currency_code": "XAF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "291",
@@ -690,7 +766,8 @@
     "abbr3": "ERI",
     "continent": "Africa",
     "currency_code": "ERN",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#-###-###"
   },
   {
     "code": "372",
@@ -699,7 +776,8 @@
     "abbr3": "EST",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": ["###-####", "####-####"]
   },
   {
     "code": "500",
@@ -708,7 +786,8 @@
     "abbr3": "FLK",
     "continent": "South America",
     "currency_code": "FKP",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#####"
   },
   {
     "code": "298",
@@ -717,7 +796,8 @@
     "abbr3": "FRO",
     "continent": "Europe",
     "currency_code": "DKK",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "###-###"
   },
   {
     "code": "679",
@@ -726,7 +806,8 @@
     "abbr3": "FJI",
     "continent": "Oceania",
     "currency_code": "FJD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "##-#####"
   },
   {
     "code": "358",
@@ -735,7 +816,8 @@
     "abbr3": "FIN",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(###)###-##-##"
   },
   {
     "code": "33",
@@ -744,7 +826,8 @@
     "abbr3": "FRA",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "594",
@@ -753,7 +836,8 @@
     "abbr3": "GUF",
     "continent": "South America",
     "currency_code": "EUR",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#####-####"
   },
   {
     "code": "689",
@@ -762,7 +846,8 @@
     "abbr3": "PYF",
     "continent": "Oceania",
     "currency_code": "XPF",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "##-##-##"
   },
   {
     "code": "241",
@@ -771,7 +856,8 @@
     "abbr3": "GAB",
     "continent": "Africa",
     "currency_code": "XAF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#-##-##-##"
   },
   {
     "code": "220",
@@ -780,7 +866,8 @@
     "abbr3": "GMB",
     "continent": "Africa",
     "currency_code": "GMD",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)##-##"
   },
   {
     "code": "995",
@@ -789,7 +876,8 @@
     "abbr3": "GEO",
     "continent": "Asia",
     "currency_code": "GEL",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "49",
@@ -798,7 +886,8 @@
     "abbr3": "DEU",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": ["###-###", "(###)##-##", "(###)##-###", "(###)##-####", "(###)###-####", "(####)###-####"]
   },
   {
     "code": "233",
@@ -807,7 +896,8 @@
     "abbr3": "GHA",
     "continent": "Africa",
     "currency_code": "GHS",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "350",
@@ -816,7 +906,8 @@
     "abbr3": "GIB",
     "continent": "Europe",
     "currency_code": "GIP",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "###-#####"
   },
   {
     "code": "30",
@@ -825,7 +916,8 @@
     "abbr3": "GRC",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "299",
@@ -834,7 +926,8 @@
     "abbr3": "GRL",
     "continent": "North America",
     "currency_code": "DKK",
-    "subregion": "North America"
+    "subregion": "North America",
+    "phoneMasks": "##-##-##"
   },
   {
     "code": "1-473",
@@ -843,7 +936,8 @@
     "abbr3": "GRD",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(473)###-####"
   },
   {
     "code": "590",
@@ -852,7 +946,8 @@
     "abbr3": "GLP",
     "continent": "North America",
     "currency_code": "EUR",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "1-671",
@@ -861,7 +956,8 @@
     "abbr3": "GUM",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "(671)###-####"
   },
   {
     "code": "502",
@@ -870,7 +966,8 @@
     "abbr3": "GTM",
     "continent": "North America",
     "currency_code": "QTQ",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#-###-####"
   },
   {
     "code": "44-1481",
@@ -879,7 +976,8 @@
     "abbr3": "GGY",
     "continent": "Europe",
     "currency_code": "GBP",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(####)######"
   },
   {
     "code": "224",
@@ -888,7 +986,8 @@
     "abbr3": "GIN",
     "continent": "Africa",
     "currency_code": "GNF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "245",
@@ -897,7 +996,8 @@
     "abbr3": "GNB",
     "continent": "Africa",
     "currency_code": "CFA",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#-######"
   },
   {
     "code": "592",
@@ -906,7 +1006,8 @@
     "abbr3": "GUY",
     "continent": "South America",
     "currency_code": "GYD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "###-####"
   },
   {
     "code": "509",
@@ -915,7 +1016,8 @@
     "abbr3": "HTI",
     "continent": "North America",
     "currency_code": "HTG",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "504",
@@ -924,7 +1026,8 @@
     "abbr3": "HND",
     "continent": "North America",
     "currency_code": "HNL",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "####-####"
   },
   {
     "code": "852",
@@ -933,7 +1036,8 @@
     "abbr3": "HKG",
     "continent": "Asia",
     "currency_code": "HKD",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": "####-####"
   },
   {
     "code": "36",
@@ -942,7 +1046,8 @@
     "abbr3": "HUN",
     "continent": "Europe",
     "currency_code": "HUF",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "354",
@@ -951,7 +1056,8 @@
     "abbr3": "ISL",
     "continent": "Europe",
     "currency_code": "ISK",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "###-####"
   },
   {
     "code": "91",
@@ -960,7 +1066,8 @@
     "abbr3": "IND",
     "continent": "Asia",
     "currency_code": "INR",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "(####)###-###"
   },
   {
     "code": "62",
@@ -969,7 +1076,8 @@
     "abbr3": "IDN",
     "continent": "Asia",
     "currency_code": "IDR",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["##-###-##", "##-###-###", "##-###-####", "(8##)###-###", "(8##)###-##-###"]
   },
   {
     "code": "98",
@@ -978,7 +1086,8 @@
     "abbr3": "IRN",
     "continent": "Asia",
     "currency_code": "IRR",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "964",
@@ -987,7 +1096,8 @@
     "abbr3": "IRQ",
     "continent": "Asia",
     "currency_code": "IQD",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "353",
@@ -996,7 +1106,8 @@
     "abbr3": "IRL",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "44-1624",
@@ -1005,7 +1116,8 @@
     "abbr3": "IMN",
     "continent": "Europe",
     "currency_code": "IMP",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(####)######"
   },
   {
     "code": "972",
@@ -1014,7 +1126,8 @@
     "abbr3": "ISR",
     "continent": "Asia",
     "currency_code": "ILS",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": ["#-###-####", "5#-###-####"]
   },
   {
     "code": "39",
@@ -1023,7 +1136,8 @@
     "abbr3": "ITA",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "(###)####-###"
   },
   {
     "code": "1-876",
@@ -1032,7 +1146,8 @@
     "abbr3": "JAM",
     "continent": "North America",
     "currency_code": "JMD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(876)###-####"
   },
   {
     "code": "81",
@@ -1041,7 +1156,8 @@
     "abbr3": "JPN",
     "continent": "Asia",
     "currency_code": "JPY",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": ["(###)###-###", "##-####-####"]
   },
   {
     "code": "44-1534",
@@ -1050,7 +1166,8 @@
     "abbr3": "JEY",
     "continent": "Europe",
     "currency_code": "GBP",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(####)####-######"
   },
   {
     "code": "962",
@@ -1059,7 +1176,8 @@
     "abbr3": "JOR",
     "continent": "Asia",
     "currency_code": "JOD",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "#-####-####"
   },
   {
     "code": "7",
@@ -1068,7 +1186,8 @@
     "abbr3": "KAZ",
     "continent": "Asia",
     "currency_code": "KZT",
-    "subregion": "Central Asia"
+    "subregion": "Central Asia",
+    "phoneMasks": ["(6##)###-##-##", "(7##)###-##-##"]
   },
   {
     "code": "254",
@@ -1077,7 +1196,8 @@
     "abbr3": "KEN",
     "continent": "Africa",
     "currency_code": "KES",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "###-######"
   },
   {
     "code": "686",
@@ -1086,7 +1206,8 @@
     "abbr3": "KIR",
     "continent": "Oceania",
     "currency_code": "AUD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "##-###"
   },
   {
     "code": "383",
@@ -1095,7 +1216,8 @@
     "abbr3": "XKX",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": ["##-###-###", "###-###-###"]
   },
   {
     "code": "965",
@@ -1104,7 +1226,8 @@
     "abbr3": "KWT",
     "continent": "Asia",
     "currency_code": "KWD",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "####-####"
   },
   {
     "code": "996",
@@ -1113,7 +1236,8 @@
     "abbr3": "KGZ",
     "continent": "Asia",
     "currency_code": "KGS",
-    "subregion": "Central Asia"
+    "subregion": "Central Asia",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "856",
@@ -1122,7 +1246,8 @@
     "abbr3": "LAO",
     "continent": "Asia",
     "currency_code": "LAK",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["##-###-###", "(20##)###-###"]
   },
   {
     "code": "371",
@@ -1131,7 +1256,8 @@
     "abbr3": "LVA",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "961",
@@ -1140,7 +1266,8 @@
     "abbr3": "LBN",
     "continent": "Asia",
     "currency_code": "LBP",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": ["#-###-###", "##-###-###"]
   },
   {
     "code": "266",
@@ -1149,7 +1276,8 @@
     "abbr3": "LSO",
     "continent": "Africa",
     "currency_code": "LSL",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#-###-####"
   },
   {
     "code": "231",
@@ -1158,7 +1286,8 @@
     "abbr3": "LBR",
     "continent": "Africa",
     "currency_code": "LRD",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "218",
@@ -1167,7 +1296,8 @@
     "abbr3": "LBY",
     "continent": "Africa",
     "currency_code": "LYD",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": ["##-###-###", "21-###-####"]
   },
   {
     "code": "423",
@@ -1176,7 +1306,8 @@
     "abbr3": "LIE",
     "continent": "Europe",
     "currency_code": "CHF",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "370",
@@ -1185,7 +1316,8 @@
     "abbr3": "LTU",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(###)##-###"
   },
   {
     "code": "352",
@@ -1194,7 +1326,8 @@
     "abbr3": "LUX",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "853",
@@ -1203,7 +1336,8 @@
     "abbr3": "MAC",
     "continent": "Asia",
     "currency_code": "MOP",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": "####-####"
   },
   {
     "code": "389",
@@ -1212,7 +1346,8 @@
     "abbr3": "MKD",
     "continent": "Europe",
     "currency_code": "MKD",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "261",
@@ -1221,7 +1356,8 @@
     "abbr3": "MDG",
     "continent": "Africa",
     "currency_code": "MGF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-#####"
   },
   {
     "code": "265",
@@ -1230,7 +1366,8 @@
     "abbr3": "MWI",
     "continent": "Africa",
     "currency_code": "MWK",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": ["1-###-###", "#-####-####"]
   },
   {
     "code": "60",
@@ -1239,7 +1376,8 @@
     "abbr3": "MYS",
     "continent": "Asia",
     "currency_code": "MYR",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["#-###-###", "##-###-###", "(###)###-###", "##-###-####"]
   },
   {
     "code": "960",
@@ -1248,7 +1386,8 @@
     "abbr3": "MDV",
     "continent": "Asia",
     "currency_code": "MVR",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "###-####"
   },
   {
     "code": "223",
@@ -1257,7 +1396,8 @@
     "abbr3": "MLI",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "356",
@@ -1266,7 +1406,8 @@
     "abbr3": "MLT",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "####-####"
   },
   {
     "code": "692",
@@ -1275,7 +1416,8 @@
     "abbr3": "MHL",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "###-####"
   },
   {
     "code": "596",
@@ -1284,7 +1426,8 @@
     "abbr3": "MTQ",
     "continent": "North America",
     "currency_code": "EUR",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)##-##-##"
   },
   {
     "code": "222",
@@ -1293,7 +1436,8 @@
     "abbr3": "MRT",
     "continent": "Africa",
     "currency_code": "MRO",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "230",
@@ -1302,7 +1446,8 @@
     "abbr3": "MUS",
     "continent": "Africa",
     "currency_code": "MUR",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "###-####"
   },
   {
     "code": "262",
@@ -1311,7 +1456,8 @@
     "abbr3": "MYT",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#####-####"
   },
   {
     "code": "52",
@@ -1320,7 +1466,8 @@
     "abbr3": "MEX",
     "continent": "North America",
     "currency_code": "MXN",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": ["##-##-####", "(###)###-####"]
   },
   {
     "code": "691",
@@ -1329,7 +1476,8 @@
     "abbr3": "FSM",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "###-####"
   },
   {
     "code": "373",
@@ -1338,7 +1486,8 @@
     "abbr3": "MDA",
     "continent": "Europe",
     "currency_code": "MDL",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "####-####"
   },
   {
     "code": "377",
@@ -1347,7 +1496,8 @@
     "abbr3": "MCO",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": ["##-###-###", "(###)###-###"]
   },
   {
     "code": "976",
@@ -1356,7 +1506,8 @@
     "abbr3": "MNG",
     "continent": "Asia",
     "currency_code": "MNT",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "382",
@@ -1365,7 +1516,8 @@
     "abbr3": "MNE",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "1-664",
@@ -1374,7 +1526,8 @@
     "abbr3": "MSR",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(664)###-####"
   },
   {
     "code": "212",
@@ -1383,7 +1536,8 @@
     "abbr3": "MAR",
     "continent": "Africa",
     "currency_code": "MAD",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": "##-####-###"
   },
   {
     "code": "258",
@@ -1392,7 +1546,8 @@
     "abbr3": "MOZ",
     "continent": "Africa",
     "currency_code": "MZN",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "95",
@@ -1401,7 +1556,8 @@
     "abbr3": "MMR",
     "continent": "Asia",
     "currency_code": "MMR",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["###-###", "#-###-###", "##-###-###"]
   },
   {
     "code": "264",
@@ -1410,7 +1566,8 @@
     "abbr3": "NAM",
     "continent": "Africa",
     "currency_code": "NAD",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "674",
@@ -1419,7 +1576,8 @@
     "abbr3": "NRU",
     "continent": "Oceania",
     "currency_code": "AUD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "###-####"
   },
   {
     "code": "977",
@@ -1428,7 +1586,8 @@
     "abbr3": "NPL",
     "continent": "Asia",
     "currency_code": "NPR",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "31",
@@ -1437,7 +1596,8 @@
     "abbr3": "NLD",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "599",
@@ -1446,7 +1606,8 @@
     "abbr3": "ANT",
     "continent": null,
     "currency_code": "ANG",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": []
   },
   {
     "code": "687",
@@ -1455,7 +1616,8 @@
     "abbr3": "NCL",
     "continent": "Oceania",
     "currency_code": "XPF",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "##-####"
   },
   {
     "code": "64",
@@ -1464,7 +1626,8 @@
     "abbr3": "NZL",
     "continent": "Oceania",
     "currency_code": "NZD",
-    "subregion": "Australia and New Zealand"
+    "subregion": "Australia and New Zealand",
+    "phoneMasks": ["#-###-###", "(###)###-###", "(###)###-####"]
   },
   {
     "code": "505",
@@ -1473,7 +1636,8 @@
     "abbr3": "NIC",
     "continent": "North America",
     "currency_code": "NIO",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "####-####"
   },
   {
     "code": "227",
@@ -1482,7 +1646,8 @@
     "abbr3": "NER",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "234",
@@ -1491,7 +1656,8 @@
     "abbr3": "NGA",
     "continent": "Africa",
     "currency_code": "NGN",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": ["##-###-##", "##-###-###", "(###)###-####"]
   },
   {
     "code": "683",
@@ -1500,7 +1666,8 @@
     "abbr3": "NIU",
     "continent": "Oceania",
     "currency_code": "NZD",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "####"
   },
   {
     "code": "1-670",
@@ -1509,7 +1676,8 @@
     "abbr3": "MNP",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "(670)###-####"
   },
   {
     "code": "850",
@@ -1518,7 +1686,8 @@
     "abbr3": "PRK",
     "continent": "Asia",
     "currency_code": "KPW",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": ["###-###", "####-####", "##-###-###", "###-####-###", "191-###-####", "####-#############"]
   },
   {
     "code": "47",
@@ -1527,7 +1696,8 @@
     "abbr3": "NOR",
     "continent": "Europe",
     "currency_code": "NOK",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(###)##-###"
   },
   {
     "code": "968",
@@ -1536,7 +1706,8 @@
     "abbr3": "OMN",
     "continent": "Asia",
     "currency_code": "OMR",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "92",
@@ -1545,7 +1716,8 @@
     "abbr3": "PAK",
     "continent": "Asia",
     "currency_code": "PKR",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "680",
@@ -1554,7 +1726,8 @@
     "abbr3": "PLW",
     "continent": "Oceania",
     "currency_code": "USD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "###-####"
   },
   {
     "code": "507",
@@ -1563,7 +1736,8 @@
     "abbr3": "PAN",
     "continent": "North America",
     "currency_code": "PAB",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "###-####"
   },
   {
     "code": "675",
@@ -1572,7 +1746,8 @@
     "abbr3": "PNG",
     "continent": "Oceania",
     "currency_code": "PGK",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": "(###)##-###"
   },
   {
     "code": "595",
@@ -1581,7 +1756,8 @@
     "abbr3": "PRY",
     "continent": "South America",
     "currency_code": "PYG",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "51",
@@ -1590,7 +1766,8 @@
     "abbr3": "PER",
     "continent": "South America",
     "currency_code": "PEN",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "63",
@@ -1599,7 +1776,8 @@
     "abbr3": "PHL",
     "continent": "Asia",
     "currency_code": "PHP",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "64",
@@ -1608,7 +1786,8 @@
     "abbr3": "PCN",
     "continent": "Oceania",
     "currency_code": "NZD",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "###-###-###"
   },
   {
     "code": "48",
@@ -1617,7 +1796,8 @@
     "abbr3": "POL",
     "continent": "Europe",
     "currency_code": "PLN",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "351",
@@ -1626,7 +1806,8 @@
     "abbr3": "PRT",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "1-787, 1-939",
@@ -1635,7 +1816,8 @@
     "abbr3": "PRI",
     "continent": "North America",
     "currency_code": "USD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": ["(787) ### ####", "(939) ### ####"]
   },
   {
     "code": "974",
@@ -1644,7 +1826,8 @@
     "abbr3": "QAT",
     "continent": "Asia",
     "currency_code": "QAR",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "####-####"
   },
   {
     "code": "262",
@@ -1653,7 +1836,8 @@
     "abbr3": "REU",
     "continent": "Asia",
     "currency_code": "EUR",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#####-####"
   },
   {
     "code": "40",
@@ -1662,7 +1846,8 @@
     "abbr3": "ROU",
     "continent": "Europe",
     "currency_code": "RON",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "7",
@@ -1671,7 +1856,8 @@
     "abbr3": "RUS",
     "continent": "Europe",
     "currency_code": "RUB",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-##-##"
   },
   {
     "code": "250",
@@ -1680,7 +1866,8 @@
     "abbr3": "RWA",
     "continent": "Africa",
     "currency_code": "RWF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "508",
@@ -1689,7 +1876,8 @@
     "abbr3": "SPM",
     "continent": "North America",
     "currency_code": "EUR",
-    "subregion": "North America"
+    "subregion": "North America",
+    "phoneMasks": "##-####"
   },
   {
     "code": "590",
@@ -1698,7 +1886,8 @@
     "abbr3": "BLM",
     "continent": "North America",
     "currency_code": "EUR",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "###-##-##-##"
   },
   {
     "code": "290",
@@ -1707,7 +1896,8 @@
     "abbr3": "SHN",
     "continent": "Africa",
     "currency_code": "SHP",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "####"
   },
   {
     "code": "685",
@@ -1716,7 +1906,8 @@
     "abbr3": "WSM",
     "continent": "Oceania",
     "currency_code": "WST",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "##-####"
   },
   {
     "code": "239",
@@ -1725,7 +1916,8 @@
     "abbr3": "STP",
     "continent": "Africa",
     "currency_code": "STD",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-#####"
   },
   {
     "code": "966",
@@ -1734,7 +1926,8 @@
     "abbr3": "SAU",
     "continent": "Asia",
     "currency_code": "SAR",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": ["#-###-####", "5#-####-####"]
   },
   {
     "code": "221",
@@ -1743,7 +1936,8 @@
     "abbr3": "SEN",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "381",
@@ -1752,7 +1946,8 @@
     "abbr3": "SRB",
     "continent": "Europe",
     "currency_code": "RSD",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "248",
@@ -1761,7 +1956,8 @@
     "abbr3": "SYC",
     "continent": "Africa",
     "currency_code": "SCR",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#-###-###"
   },
   {
     "code": "232",
@@ -1770,7 +1966,8 @@
     "abbr3": "SLE",
     "continent": "Africa",
     "currency_code": "SLL",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-######"
   },
   {
     "code": "65",
@@ -1779,7 +1976,8 @@
     "abbr3": "SGP",
     "continent": "Asia",
     "currency_code": "SGD",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": "####-####"
   },
   {
     "code": "421",
@@ -1788,7 +1986,8 @@
     "abbr3": "SVK",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "386",
@@ -1797,7 +1996,8 @@
     "abbr3": "SVN",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "677",
@@ -1806,7 +2006,8 @@
     "abbr3": "SLB",
     "continent": "Oceania",
     "currency_code": "SBD",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": ["#####", "###-####"]
   },
   {
     "code": "252",
@@ -1815,7 +2016,8 @@
     "abbr3": "SOM",
     "continent": "Africa",
     "currency_code": "SOS",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": ["#-###-###", "##-###-###"]
   },
   {
     "code": "27",
@@ -1824,7 +2026,8 @@
     "abbr3": "ZAF",
     "continent": "Africa",
     "currency_code": "ZAR",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "82",
@@ -1833,7 +2036,8 @@
     "abbr3": "KOR",
     "continent": "Asia",
     "currency_code": "KRW",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "211",
@@ -1842,7 +2046,8 @@
     "abbr3": "SSD",
     "continent": "Africa",
     "currency_code": "SSP",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "34",
@@ -1851,7 +2056,8 @@
     "abbr3": "ESP",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "(###)###-###"
   },
   {
     "code": "94",
@@ -1860,7 +2066,8 @@
     "abbr3": "LKA",
     "continent": "Asia",
     "currency_code": "LKR",
-    "subregion": "Southern Asia"
+    "subregion": "Southern Asia",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "1-721",
@@ -1869,7 +2076,8 @@
     "abbr3": "SXM",
     "continent": "North America",
     "currency_code": "ANG",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(721)###-####"
   },
   {
     "code": "1-869",
@@ -1878,7 +2086,8 @@
     "abbr3": "KNA",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(869)###-####"
   },
   {
     "code": "1-758",
@@ -1887,7 +2096,8 @@
     "abbr3": "LCA",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(758)###-####"
   },
   {
     "code": "1-784",
@@ -1896,7 +2106,8 @@
     "abbr3": "VCT",
     "continent": "North America",
     "currency_code": "XCD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(784)###-####"
   },
   {
     "code": "249",
@@ -1905,7 +2116,8 @@
     "abbr3": "SDN",
     "continent": "Africa",
     "currency_code": "SDG",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "597",
@@ -1914,7 +2126,8 @@
     "abbr3": "SUR",
     "continent": "South America",
     "currency_code": "SRD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": ["###-###", "###-####"]
   },
   {
     "code": "47",
@@ -1923,7 +2136,8 @@
     "abbr3": "SJM",
     "continent": "Europe",
     "currency_code": "NOK",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "(###)##-###"
   },
   {
     "code": "268",
@@ -1932,7 +2146,8 @@
     "abbr3": "SWZ",
     "continent": "Africa",
     "currency_code": "SZL",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-##-####"
   },
   {
     "code": "46",
@@ -1941,7 +2156,8 @@
     "abbr3": "SWE",
     "continent": "Europe",
     "currency_code": "SEK",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "41",
@@ -1950,7 +2166,8 @@
     "abbr3": "CHE",
     "continent": "Europe",
     "currency_code": "CHF",
-    "subregion": "Western Europe"
+    "subregion": "Western Europe",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "963",
@@ -1959,7 +2176,8 @@
     "abbr3": "SYR",
     "continent": "Asia",
     "currency_code": "SYP",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "##-####-###"
   },
   {
     "code": "886",
@@ -1968,7 +2186,8 @@
     "abbr3": "TWN",
     "continent": "Asia",
     "currency_code": "TWD",
-    "subregion": "Eastern Asia"
+    "subregion": "Eastern Asia",
+    "phoneMasks": ["####-####", "#-####-####"]
   },
   {
     "code": "992",
@@ -1977,7 +2196,8 @@
     "abbr3": "TJK",
     "continent": "Asia",
     "currency_code": "TJS",
-    "subregion": "Central Asia"
+    "subregion": "Central Asia",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "255",
@@ -1986,7 +2206,8 @@
     "abbr3": "TZA",
     "continent": "Africa",
     "currency_code": "TZS",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "66",
@@ -1995,7 +2216,8 @@
     "abbr3": "THA",
     "continent": "Asia",
     "currency_code": "THB",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["##-###-###", "##-###-####"]
   },
   {
     "code": "670",
@@ -2004,7 +2226,8 @@
     "abbr3": "TLS",
     "continent": "Asia",
     "currency_code": "USD",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["###-####", "77#-#####", "78#-#####"]
   },
   {
     "code": "228",
@@ -2013,7 +2236,8 @@
     "abbr3": "TGO",
     "continent": "Africa",
     "currency_code": "XOF",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "676",
@@ -2022,7 +2246,8 @@
     "abbr3": "TON",
     "continent": "Oceania",
     "currency_code": "TOP",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "#####"
   },
   {
     "code": "1-868",
@@ -2031,7 +2256,8 @@
     "abbr3": "TTO",
     "continent": "North America",
     "currency_code": "TTD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(868)###-####"
   },
   {
     "code": "216",
@@ -2040,7 +2266,8 @@
     "abbr3": "TUN",
     "continent": "Africa",
     "currency_code": "TND",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": "##-###-###"
   },
   {
     "code": "90",
@@ -2049,7 +2276,8 @@
     "abbr3": "TUR",
     "continent": "Asia",
     "currency_code": "TRY",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "993",
@@ -2058,7 +2286,8 @@
     "abbr3": "TKM",
     "continent": "Asia",
     "currency_code": "TMT",
-    "subregion": "Central Asia"
+    "subregion": "Central Asia",
+    "phoneMasks": "#-###-####"
   },
   {
     "code": "1-649",
@@ -2067,7 +2296,8 @@
     "abbr3": "TCA",
     "continent": "North America",
     "currency_code": "USD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(249)###-###"
   },
   {
     "code": "688",
@@ -2076,7 +2306,8 @@
     "abbr3": "TUV",
     "continent": "Oceania",
     "currency_code": "AUD",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": ["2####", "90####"]
   },
   {
     "code": "380",
@@ -2085,7 +2316,8 @@
     "abbr3": "UKR",
     "continent": "Europe",
     "currency_code": "UAH",
-    "subregion": "Eastern Europe"
+    "subregion": "Eastern Europe",
+    "phoneMasks": "(##)###-##-##"
   },
   {
     "code": "44",
@@ -2094,7 +2326,8 @@
     "abbr3": "GBR",
     "continent": "Europe",
     "currency_code": "GBP",
-    "subregion": "Northern Europe"
+    "subregion": "Northern Europe",
+    "phoneMasks": "##-####-####"
   },
   {
     "code": "1",
@@ -2103,7 +2336,8 @@
     "abbr3": "USA",
     "continent": "North America",
     "currency_code": "USD",
-    "subregion": "North America"
+    "subregion": "North America",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "971",
@@ -2112,7 +2346,8 @@
     "abbr3": "ARE",
     "continent": "Asia",
     "currency_code": "AED",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": ["#-###-####", "5#-###-####"]
   },
   {
     "code": "598",
@@ -2121,7 +2356,8 @@
     "abbr3": "URY",
     "continent": "South America",
     "currency_code": "UYU",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "#-###-##-##"
   },
   {
     "code": "998",
@@ -2130,7 +2366,8 @@
     "abbr3": "UZB",
     "continent": "Asia",
     "currency_code": "UZS",
-    "subregion": "Central Asia"
+    "subregion": "Central Asia",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "678",
@@ -2139,7 +2376,8 @@
     "abbr3": "VUT",
     "continent": "Oceania",
     "currency_code": "VUV",
-    "subregion": "Melanesia"
+    "subregion": "Melanesia",
+    "phoneMasks": ["#####", "##-#####"]
   },
   {
     "code": "379",
@@ -2148,7 +2386,8 @@
     "abbr3": "VAT",
     "continent": "Europe",
     "currency_code": "EUR",
-    "subregion": "Southern Europe"
+    "subregion": "Southern Europe",
+    "phoneMasks": "06 698#####"
   },
   {
     "code": "58",
@@ -2157,7 +2396,8 @@
     "abbr3": "VEN",
     "continent": "South America",
     "currency_code": "VEF",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(###)###-####"
   },
   {
     "code": "84",
@@ -2166,7 +2406,8 @@
     "abbr3": "VNM",
     "continent": "Asia",
     "currency_code": "VND",
-    "subregion": "South-eastern Asia"
+    "subregion": "South-eastern Asia",
+    "phoneMasks": ["##-####-###", "(###)####-###"]
   },
   {
     "code": "1-340",
@@ -2175,7 +2416,8 @@
     "abbr3": "VIR",
     "continent": "North America",
     "currency_code": "USD",
-    "subregion": "Latin America and the Caribbean"
+    "subregion": "Latin America and the Caribbean",
+    "phoneMasks": "(340)###-####"
   },
   {
     "code": "681",
@@ -2184,7 +2426,8 @@
     "abbr3": "WLF",
     "continent": "Oceania",
     "currency_code": "XPF",
-    "subregion": "Polynesia"
+    "subregion": "Polynesia",
+    "phoneMasks": "##-####"
   },
   {
     "code": "970",
@@ -2193,7 +2436,8 @@
     "abbr3": "PSE",
     "continent": "Asia",
     "currency_code": "null",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "212",
@@ -2202,7 +2446,8 @@
     "abbr3": "ESH",
     "continent": "Africa",
     "currency_code": "MAD",
-    "subregion": "Northern Africa"
+    "subregion": "Northern Africa",
+    "phoneMasks": []
   },
   {
     "code": "967",
@@ -2211,7 +2456,8 @@
     "abbr3": "YEM",
     "continent": "Asia",
     "currency_code": "YER",
-    "subregion": "Western Asia"
+    "subregion": "Western Asia",
+    "phoneMasks": ["#-###-###", "##-###-###", "###-###-###"]
   },
   {
     "code": "260",
@@ -2220,7 +2466,8 @@
     "abbr3": "ZMB",
     "continent": "Africa",
     "currency_code": "ZMW",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "##-###-####"
   },
   {
     "code": "263",
@@ -2229,6 +2476,7 @@
     "abbr3": "ZWE",
     "continent": "Africa",
     "currency_code": "ZWD",
-    "subregion": "Sub-Saharan Africa"
+    "subregion": "Sub-Saharan Africa",
+    "phoneMasks": "#-######"
   }
 ]
