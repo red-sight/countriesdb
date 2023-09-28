@@ -1,19 +1,21 @@
-import countries from './data.json';
+import countries from './countries.json';
 import { IGetCountryBy } from './types/IGetCountryBy';
-import { ICountry } from './types/ICountry';
 
+export type Country = (typeof countries)[number];
+export type ISO2 = Country['iso2'];
+export type ISO3 = Country['iso3'];
 export class Countries {
-  public static getByAlpha2(abbr2: string): ICountry | undefined {
-    const found = this.find({ abbr2 });
+  public static getByISO2(iso2: ISO2): Country | undefined {
+    const found = this.find({ iso2 });
     if (found && found.length) return found[0];
   }
 
-  public static getByAlpha3(abbr3: string): ICountry | undefined {
-    const found = this.find({ abbr3 });
+  public static getByISO3(iso3: ISO3): Country | undefined {
+    const found = this.find({ iso3 });
     if (found && found.length) return found[0];
   }
 
-  public static find(filters: IGetCountryBy): ICountry[] | undefined {
+  public static find(filters: IGetCountryBy): Country[] | undefined {
     const filtersArr = Object.keys(filters).map((key) => {
       return {
         key,
@@ -29,8 +31,8 @@ export class Countries {
         return {
           ...c,
           flags: {
-            '1x1': this.flagLink(c.abbr2, '1x1'),
-            '4x3': this.flagLink(c.abbr2, '4x3'),
+            '1x1': this.flagLink(c.iso2, '1x1'),
+            '4x3': this.flagLink(c.iso2, '4x3'),
           },
         };
       });
