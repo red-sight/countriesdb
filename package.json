@@ -1,5 +1,5 @@
 {
-  "name": "countriesdb",
+  "name": "countrykit",
   "version": "0.0.1",
   "description": "Countries specific information library",
   "main": "dist/index.js",
